@@ -1,2 +1,2 @@
-# framer-scrolling
-Framer Motion Library for Scrolling
+# framer-motion
+Experiments Using Framer Motion
